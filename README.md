@@ -1,1 +1,1 @@
-# https-github.com-Lerking-python-repo-template
+python-repo-template
